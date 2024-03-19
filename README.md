@@ -5,7 +5,7 @@ PHP Version 5.6.3 MYSQL version 5.0
 INSTALLATION
 
 Export unleashe_hotel.sql to database.
-Username, password and database name can be find in auth.php file inside the HotelB and HotelB/admin folders.
+Username, password and database name can be find in auth.php file inside the HotelEcho and HotelEcho/admin folders.
 ADMIN PAGE
 
 Username: demo , password: demo
