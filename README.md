@@ -12,6 +12,6 @@ Username: demo , password: demo
 
 Admin can delete, edit and view pending and paid bookings.
 
-Admin can delete, edit and view ROOMS.
+Admin can delete, edit and view rooms.
 
 ![image](https://github.com/amacleod1417/Hotel__Echo/assets/155204136/fb23f6c2-2317-4423-adcf-eecdec1053d9)
