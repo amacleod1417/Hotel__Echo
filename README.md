@@ -1,4 +1,4 @@
-This online hotel booking system integrate with Paypal and written on PHP, html and javascript.
+This online hotel booking system integrate with Paypal and written on PHP, SCSS, HTML and Javascript.
 
 PHP Version 5.6.3 MYSQL version 5.0
 
